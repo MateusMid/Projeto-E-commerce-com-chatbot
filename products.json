@@ -1,0 +1,42 @@
+[
+  {
+    "id": "colar-elo-dourado",
+    "name": "Colar Elo Dourado",
+    "category": "Colar",
+    "price": 20.00,
+    "description": "Corrente elo cartier com reflexos que capturam a luz a cada movimento.",
+    "material": "Aço inoxidável · Banhado a ouro",
+    "stock": 14,
+    "keywords": ["colar", "colares", "elo", "dourado", "cartier", "corrente", "banhado a ouro"]
+  },
+  {
+    "id": "colar-concha",
+    "name": "Colar Concha",
+    "category": "Colar",
+    "price": 20.00,
+    "description": "Pingente concha em relevo, inspirado nos dias de verão à beira-mar.",
+    "material": "Aço inoxidável · Acabamento prateado",
+    "stock": 0,
+    "keywords": ["colar", "colares", "concha", "pingente", "praia", "verão", "prateado"]
+  },
+  {
+    "id": "pulseira-infinito",
+    "name": "Pulseira Infinito",
+    "category": "Pulseira",
+    "price": 20.00,
+    "description": "Elo infinito gravado com \"love\", símbolo de um carinho sem fim.",
+    "material": "Aço inoxidável · Acabamento prateado",
+    "stock": 8,
+    "keywords": ["pulseira", "pulseiras", "infinito", "love", "prateado"]
+  },
+  {
+    "id": "pulseira-coracao-estrela",
+    "name": "Pulseira Coração & Estrela",
+    "category": "Pulseira",
+    "price": 20.00,
+    "description": "Corações e estrelas intercalados numa pulseira leve e cheia de charme.",
+    "material": "Aço inoxidável · Banhado a ouro",
+    "stock": 3,
+    "keywords": ["pulseira", "pulseiras", "coração", "coracao", "estrela", "dourado", "banhado a ouro"]
+  }
+]
